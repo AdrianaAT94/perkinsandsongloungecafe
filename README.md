@@ -1,1 +1,1 @@
-Proyecto de cafetería realizado con Wordpress
+Proyecto de cafetería realizado con Wordpress.
